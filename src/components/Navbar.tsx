@@ -25,6 +25,8 @@ export default function Navbar() {
     { to: '/about', label: 'About' },
     { to: '/speakers', label: 'Speakers' },
     { to: '/schedule', label: 'Schedule' },
+    { to: '/blog', label: 'Blog' },
+    { to: '/contact', label: 'Contact' },
   ]
 
   return (

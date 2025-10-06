@@ -62,6 +62,11 @@ export default function Footer() {
                   About Us
                 </Link>
               </li>
+              <li>
+                <Link to="/blog" className="text-gray-400 hover:text-primary-500 transition-colors">
+                  Blog
+                </Link>
+              </li>
             </ul>
           </div>
 
@@ -79,9 +84,9 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors">
+                <Link to="/contact" className="text-gray-400 hover:text-primary-500 transition-colors">
                   Contact Us
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
