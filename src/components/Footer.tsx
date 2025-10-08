@@ -106,14 +106,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-primary-500 flex-shrink-0" />
-                <span className="text-gray-400">info@eventtalk.com</span>
+                <span className="text-gray-400">info@graceandglory.org</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="pt-8 border-t border-gray-800 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} EventTalk. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Grace & Glory Women's Conference. All rights reserved.</p>
         </div>
       </div>
     </footer>

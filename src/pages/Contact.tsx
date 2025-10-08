@@ -56,7 +56,7 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'Email',
-      details: 'info@eventtalk.com',
+      details: 'info@graceandglory.org',
     },
     {
       icon: Clock,
@@ -133,7 +133,7 @@ export default function Contact() {
                 Send Us a Message
               </h2>
               <p className="text-gray-600 mb-8">
-                Have a question or want to learn more about EventTalk? Fill out the form below and we'll get back to you as soon as possible.
+                Have a question or want to learn more about the Grace & Glory Conference? Fill out the form below and we'll get back to you as soon as possible.
               </p>
 
               <form onSubmit={handleSubmit} className="space-y-6">

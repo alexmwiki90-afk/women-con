@@ -4,22 +4,22 @@ import { Quote } from 'lucide-react'
 export default function Testimonials() {
   const testimonials = [
     {
-      name: 'Roger Scott',
-      role: 'Senior Developer',
+      name: 'Sarah Johnson',
+      role: 'Ministry Leader',
       image: 'images/person_1.jpg',
-      text: 'An incredible experience! The speakers were outstanding and the networking opportunities were invaluable.',
+      text: 'This conference renewed my spirit and strengthened my faith. The worship was powerful and the teaching was life-changing!',
     },
     {
       name: 'Emily Chen',
-      role: 'Product Manager',
+      role: 'Small Group Leader',
       image: 'images/person_2.jpg',
-      text: 'EventTalk exceeded all my expectations. I learned so much and made connections that will last a lifetime.',
+      text: 'Grace & Glory exceeded all my expectations. I encountered God in a fresh way and made friendships that will last forever.',
     },
     {
-      name: 'Michael Brown',
-      role: 'Tech Lead',
+      name: 'Rebecca Martinez',
+      role: 'Women\'s Pastor',
       image: 'images/person_3.jpg',
-      text: 'The best tech conference I\'ve ever attended. Worth every penny and I\'m definitely coming back next year.',
+      text: 'The most impactful women\'s conference I\'ve ever attended. Every woman left encouraged and equipped to walk in her calling.',
     },
   ]
 

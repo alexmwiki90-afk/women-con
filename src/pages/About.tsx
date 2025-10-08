@@ -24,7 +24,7 @@ export default function About() {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-4">
-              About EventTalk
+              About Grace & Glory
             </h1>
             <div className="flex items-center gap-2 text-gray-300">
               <a href="/" className="hover:text-primary-400 transition-colors">
@@ -47,22 +47,23 @@ export default function About() {
             className="max-w-4xl"
           >
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-8">
-              25 Years of Excellence in Tech Events
+              Empowering Women Through Faith
             </h2>
             <div className="space-y-6 text-lg text-gray-700 leading-relaxed">
               <p>
-                EventTalk has been at the forefront of bringing together the brightest minds in technology
-                for over two decades. Our conference has grown from a small gathering of enthusiasts to
-                one of the most anticipated tech events globally.
+                Grace & Glory Women's Conference exists to encourage, equip, and empower Christian women
+                in their walk with Christ. For over a decade, we've created a welcoming space where women
+                can encounter God's presence, deepen their faith, and build lasting relationships.
               </p>
               <p>
-                We pride ourselves on creating an environment where innovation thrives, connections are made,
-                and the future of technology is shaped. Every year, we carefully curate speakers, topics, and
-                experiences that push the boundaries of what's possible.
+                Our conference brings together anointed speakers, powerful worship, and authentic fellowship.
+                Through Biblical teaching and Spirit-led ministry, we help women discover their identity in
+                Christ and step into their God-given purpose with confidence and grace.
               </p>
               <p>
-                Join us as we continue to inspire, educate, and connect the global tech community through
-                world-class conferences and events.
+                Join us as we celebrate God's faithfulness and experience His transforming power together.
+                Whether you're seeking renewal, healing, or simply a deeper relationship with Jesus,
+                Grace & Glory is where faith comes alive.
               </p>
             </div>
           </motion.div>
